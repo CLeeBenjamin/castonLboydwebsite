@@ -104,6 +104,7 @@ p{
 .page-title{
 	text-transform: uppercase;
 	font-family: 'Josefin Sans';
+	color: rgb(128, 128, 128);
 }
 
 /*Home Style*/
@@ -179,6 +180,7 @@ footer{
 	
 	font-size: 32px;
 	font-family: "Josefin Sans";
+	color: rgb(128, 128, 128);
 }
 
 .fa-heartbeat{
