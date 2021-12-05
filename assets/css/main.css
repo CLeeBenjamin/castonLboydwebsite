@@ -145,6 +145,14 @@ footer{
 }
 
 
+.container main{
+
+	display: flex;
+	justify-content: center;
+
+
+}
+
 .form-control{
 	margin-top: 30px;
 	width: 75%;
@@ -167,8 +175,11 @@ footer{
 	/*margin-bottom: 25px;*/
 	font-size: 32px;
 	color:rgb(128, 128, 128)
+
 	
 }
+
+
 .form-control{
 	font-style: italic;
 	border-radius: 0;
